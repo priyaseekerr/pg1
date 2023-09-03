@@ -1,1 +1,2 @@
-hlo=56
+hlo=15
+print(hlo*2)
